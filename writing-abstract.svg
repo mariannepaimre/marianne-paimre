@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ece6e0"/>
+  <circle cx="180" cy="160" r="120" fill="#23344f" fill-opacity="0.12"/>
+  <circle cx="520" cy="390" r="160" fill="#6f3e48" fill-opacity="0.14"/>
+  <path d="M90 460 Q250 300 440 360 T730 300" fill="none" stroke="#23344f" stroke-width="10" stroke-opacity="0.5"/>
+  <text x="60" y="70" font-family="Georgia, serif" font-size="36" fill="#23344f">Public writing</text>
+</svg>
