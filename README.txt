@@ -27,3 +27,4 @@ Content handling:
   so its full English summary remains pending rather than being invented.
 
 This version is ready for final visual/content review before hosting and domain setup.
+Website deployment via Vercel.
